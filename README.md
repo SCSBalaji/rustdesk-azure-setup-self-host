@@ -1,0 +1,1 @@
+# rustdesk-azure-setup-self-host
