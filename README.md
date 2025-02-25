@@ -203,3 +203,5 @@ sudo netstat -tulnp | grep LISTEN
 - **Security**: Set up a RustDesk key for authentication (optional but recommended).
 
 By following these steps, you should have a fully functional RustDesk server running on an Azure VM, accessible from your Windows 10 Hyper-V VM and Windows 11 host machine. Let me know if you encounter any issues! 🚀
+
+## Video Link: 
