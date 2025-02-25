@@ -144,8 +144,10 @@ sudo docker logs hbbs --tail 50
 
 ### Look for a line like:
 ```bash
-[INFO] Key: 5opIdjZJsxPbXcs7fmUKMzAkoPsh8Pbcz5yBq1r9XRM=
+[INFO] Key: "VALUE"
 ```
+Example ```[INFO] Key: 5opIdjZJsxPbXcs7fmUKMzAkoPsh8Pbcz5yBq1r9XRM=```
+
 This is the server key you’ll use in the RustDesk client.
 
 ## Step 6: Configure RustDesk Client
